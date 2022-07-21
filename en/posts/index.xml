@@ -3,7 +3,14 @@
         <title>All Blogs - MsJeffny</title>
         <link>/en/posts/</link>
         <description>All Blogs | MsJeffny</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</lastBuildDate><atom:link href="/en/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Jul 2022 16:27:05 &#43;0800</lastBuildDate><atom:link href="/en/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Financing Illegal Migration: Chinese Underground Bank and Human Smuggling in New York City</title>
+    <link>/en/financing_illegal_migration/</link>
+    <pubDate>Thu, 21 Jul 2022 16:27:05 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>/en/financing_illegal_migration/</guid>
+    <description><![CDATA[资助非法移民：纽约的中国地下钱庄和人口偷渡]]></description>
+</item><item>
     <title>The End of History and the Last Man</title>
     <link>/en/the_end_of_history_and_the_last_man/</link>
     <pubDate>Wed, 06 Jul 2022 22:49:36 &#43;0800</pubDate>
@@ -66,12 +73,5 @@
     <author>Author</author>
     <guid>/en/how_to_ask_questions/</guid>
     <description><![CDATA[提问的智慧]]></description>
-</item><item>
-    <title>Blood in the Streets</title>
-    <link>/en/blood_in_the_streets/</link>
-    <pubDate>Mon, 07 Feb 2022 10:07:48 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>/en/blood_in_the_streets/</guid>
-    <description><![CDATA[血流成河：在疯狂的世界中获利]]></description>
 </item></channel>
 </rss>
